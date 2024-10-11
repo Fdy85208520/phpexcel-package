@@ -1,5 +1,5 @@
 {
-    "name": "daoyuan/phpexcel-package",
+    "name": "fudaoyuan/phpexcel-package",
     "description": "在millionmile/php-spreadsheet基础上修改的PHPspreadsheet封装类库，方便导出导入数据",
     "require": {
         "phpoffice/phpspreadsheet": "1.12.0"
@@ -22,5 +22,11 @@
         "psr-4": {
             "MillionMile\\PHPSpreadsheet\\": "src/"
         }
+    },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://gitee.com/fudaoyuan/phpexcel-package.git"
     }
+  ]
 }
