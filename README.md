@@ -9,15 +9,11 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+composer require fudaoyuan/phpexcel-package
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+https://gitee.com/millionmile/PhpSpreadsheet/blob/master/README.md
 
 #### 参与贡献
 
